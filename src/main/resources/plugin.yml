@@ -1,0 +1,4 @@
+name: Farmhunt
+version: '${project.version}'
+main: com.github.elic0de.farmhunt.Farmhunt
+api-version: 1.19
